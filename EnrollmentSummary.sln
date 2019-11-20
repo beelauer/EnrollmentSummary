@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "EnrollmentSummary", "EnrollmentSummary\EnrollmentSummary.rptproj", "{760F6D28-EF4F-4A2A-AF18-F587CE102AC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{760F6D28-EF4F-4A2A-AF18-F587CE102AC6}.Debug|Default.ActiveCfg = Debug
+		{760F6D28-EF4F-4A2A-AF18-F587CE102AC6}.Debug|Default.Build.0 = Debug
+		{760F6D28-EF4F-4A2A-AF18-F587CE102AC6}.Debug|Default.Deploy.0 = Debug
+		{760F6D28-EF4F-4A2A-AF18-F587CE102AC6}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{760F6D28-EF4F-4A2A-AF18-F587CE102AC6}.DebugLocal|Default.Build.0 = DebugLocal
+		{760F6D28-EF4F-4A2A-AF18-F587CE102AC6}.Release|Default.ActiveCfg = Release
+		{760F6D28-EF4F-4A2A-AF18-F587CE102AC6}.Release|Default.Build.0 = Release
+		{760F6D28-EF4F-4A2A-AF18-F587CE102AC6}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA57CA43-BA4E-412F-9E1E-F92C1838101F}
+	EndGlobalSection
+EndGlobal
